@@ -13,7 +13,7 @@ Este script Python foi desenvolvido para aplicar mutações a uma lista de palav
 1. Configure as regras de mutação no arquivo `config.json`.
 2. Forneça uma lista de palavras no arquivo `wordlist.txt`.
 3. Forneça o nome do arquivo a ser gerado `wordlistmutacao.txt`
-4. Execute o script `mutacao.py` para gerar as variações especificadas.
+4. Execute o script `mutantewl.py` para gerar as variações especificadas.
 
 Este script foi criado para facilitar a geração de listas de palavras mutadas em testes de segurança e manipulação de dados. É útil para profissionais de segurança cibernética, testadores de penetração e análise de dados.
 
